@@ -11,7 +11,7 @@
     padding: 0 20px !important;
 }
 .slider_area{
-    height: 700px !important;
+   
     margin-bottom: 130px ;
 
 }
@@ -34,9 +34,6 @@
     padding-bottom: 1.25rem;
     color: #fff;
     text-align: center;
-}
-.carousel-item{
-    height: 700px;
 }
 .card_area{
     width: 1320px !important;
