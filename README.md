@@ -1,4 +1,4 @@
-# Here is my restuarent project
+# Here is my bootstrap project
 
 It is a website which is designed by bootstrap style.
 
